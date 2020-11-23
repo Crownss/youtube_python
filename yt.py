@@ -18,9 +18,7 @@ def mp4():
     print('\n')
 
 def mp3():
-    # Ask the user for the video they want to download
     global video_url
-    # Download and convert to mp3 and store in downloads folder
     video_info = youtube_dl.YoutubeDL().extract_info(
         url=video_url, download=False
     )
