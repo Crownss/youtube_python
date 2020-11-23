@@ -1,6 +1,8 @@
-# Usage
+# Download anything in youtube using python
 
 ```git clone https://github.com/Crownss/youtube_downloader```
+
+```cd youtube_downloader```
 
 
 ```python3 yt.py```
