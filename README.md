@@ -7,10 +7,7 @@ USAGE
 ```cd youtube_downloader```
 
 
-```python3 yt.py```
-
-
-but dont forget to install youtube_dl & pytube
-
-
 ```pip3 install requirements.txt```
+
+
+```python3 yt.py```
