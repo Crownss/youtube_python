@@ -13,7 +13,7 @@ def mp4():
     stream = yt.streams.first()
     print('\n')
     print("downloading.....")
-    stream.download('/home/sir')
+    stream.download()
     print('Succes')
     print('\n')
 
