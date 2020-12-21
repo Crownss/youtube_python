@@ -4,7 +4,7 @@ USAGE
 
 ```git clone https://github.com/Crownss/youtube_python```
 
-```cd youtube_downloader```
+```cd youtube_python```
 
 
 ```pip3 install requirements.txt```
