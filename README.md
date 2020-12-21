@@ -2,7 +2,7 @@
 
 USAGE
 
-```git clone https://github.com/Crownss/youtube_downloader```
+```git clone https://github.com/Crownss/youtube_python```
 
 ```cd youtube_downloader```
 
